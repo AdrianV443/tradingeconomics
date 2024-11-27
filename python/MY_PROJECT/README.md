@@ -36,12 +36,12 @@ streamlit run app.py
 ```
 
 ## Visual Reference
-
-![A](/screenshots/gift1.gif)
-
-![B](/screenshots/gift2.gif)
-
-![C](/screenshots/gift3.gif)
+### Example 1
+![gitf1](https://github.com/user-attachments/assets/bbcfa7ed-ea1a-4786-ab11-8806e9a6da1d)
+### Example 2
+![gitf2](https://github.com/user-attachments/assets/5f6fa410-a9f1-4126-9647-3e5d6a22b1e9)
+### Example 3
+![gift3](https://github.com/user-attachments/assets/9c94d241-7032-4411-b042-bbd0f25138ad)
 
 ## Notes 
 * Check the documentation of Trading Economics of supported endpoints and API limits
